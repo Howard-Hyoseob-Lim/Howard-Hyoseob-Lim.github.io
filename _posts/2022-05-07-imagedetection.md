@@ -4,6 +4,7 @@ title : "JSON Preprocessing for Image Detection"
 categories : COMPUTER_VISION
 tag : [python, computer_vision, json]
 toc : true
+author_profile : false
 ---
 
 # [컴퓨터비전] JSON으로 구성된 Image Detection Feature 전처리
