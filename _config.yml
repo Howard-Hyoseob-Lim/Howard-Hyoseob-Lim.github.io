@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Science For Marketing & Business"
+title                    : "Data Science for Marketing & Business"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyoseob-Lim"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyoseob Lim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : path of avatar image, e.g. "/assets/KakaoTalk_20220507_154753226.jpg"
   bio              : "**Data Scientist** for Marketing & Business."
   location         : "Seoul, Korea"
   email            :
