@@ -1,8 +1,8 @@
 ---
 layout : single
 title : "Predict who will purchase next week by Deep Learning"
-categories : python
-tag : [python, DeepLearning, business, GA]
+categories : Deep_Learning
+tag : [python, Deep_Learning, business, GA]
 toc : true
 publised : true
 author_profile : false
