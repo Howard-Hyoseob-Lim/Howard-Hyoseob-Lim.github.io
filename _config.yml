@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Howard's Data Science for Marketing & Business"
+title                    : "DataHoward : DEEPEN Analytics with marketing & business"
 title_separator          : "|"
 subtitle                 : "Data + Marketing = Growth"
-name                     : "Hyoseob-Lim"
-description              : "Here, You could find posts for  Data Science for Marketing & Business."
+name                     : "Howard-Lim"
+description              : "Here, You could find posts for Data Science, Marketing and Business."
 url                      : "https://Howard-Hyoseob-Lim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Howard-Hyoseob-Lim/Howard-Hyoseob-Lim.github.io
